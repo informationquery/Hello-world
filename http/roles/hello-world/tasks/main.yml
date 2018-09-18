@@ -1,0 +1,4 @@
+---
+- name:hello
+  task: go run
+    /root/a.go
